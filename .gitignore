@@ -1,0 +1,28 @@
+# Dataset Mentah (Raw CSVs)
+/CSV Files/
+*.csv
+
+# Python Cache & Virtual Environments
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+venv/
+env/
+.venv/
+
+# PlatformIO & Embedded Build Artifacts
+.pio/
+.pioenvs/
+.piolibdeps/
+firmware/.pio/
+
+# IDE / Editor Configurations
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS Generated
+.DS_Store
+Thumbs.db

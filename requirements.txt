@@ -1,0 +1,19 @@
+# ==============================================================================
+# ZENTRA TinyML - Project Dependencies (Tahap 1)
+# Recommended Python Version: 3.10, 3.11, or 3.12 (also supports 3.13 where wheels exist)
+# ==============================================================================
+
+# Core numerical and scientific computing
+numpy>=1.24.0
+scipy>=1.10.0
+pandas>=2.0.0
+
+# Machine learning & signal evaluation
+scikit-learn>=1.3.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Deep Learning & TinyML compilation (TFLite Converter)
+tensorflow>=2.15.0
