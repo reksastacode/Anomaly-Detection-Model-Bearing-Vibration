@@ -6,7 +6,7 @@
 [![Inference Latency](https://img.shields.io/badge/Latency-%3C%205%20%C2%B5s%20(PCA)%20%2F%20%3C%20500%20%C2%B5s%20(TFLM)-brightgreen.svg)]()
 [![Memory Usage](https://img.shields.io/badge/Internal%20SRAM%20Used-5.8%25-success.svg)]()
 
-> **Proyek Kompetisi Mahasiswa - Sistem Deteksi Dini Anomali Bearing Spindle Mesin CNC Berbasis TinyML & Komputasi Tepi (Edge Computing)**
+
 
 ---
 
