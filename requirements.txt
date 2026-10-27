@@ -17,3 +17,6 @@ seaborn>=0.12.0
 
 # Deep Learning & TinyML compilation (TFLite Converter)
 tensorflow>=2.15.0
+
+# Embedded hardware serial communication (Tahap 12)
+pyserial>=3.5
